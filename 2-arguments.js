@@ -1,14 +1,13 @@
 const args = process.argv.slice(2)
-console.log(args);
 
 if (args.length === 0) {
-    console.log("No argument");
+    console.log("0 argument");
 }
 
 else if (args.length === 1) {
-    console.log("Argument found");
+    console.log("1 Argument");
 }
 
 else {
-    console.log("Arguments found")
+    console.log("3 Arguments")
 }
