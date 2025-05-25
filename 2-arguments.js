@@ -9,5 +9,5 @@ else if (args.length === 1) {
 }
 
 else {
-    console.log("3 Arguments")
+    console.log(`${args.length} arguments`);
 }
