@@ -5,7 +5,7 @@ if (args.length === 0) {
 }
 
 else if (args.length === 1) {
-    console.log("1 Argument");
+    console.log("1 argument");
 }
 
 else {
