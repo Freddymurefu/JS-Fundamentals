@@ -3,5 +3,5 @@ if (myVal[0] === undefined) {
     console.log("No argument");
 }
 else {
-    console.log("School");
+    console.log(myVal[0]);
 }
