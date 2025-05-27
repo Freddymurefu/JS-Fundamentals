@@ -4,7 +4,7 @@ const num = Number(input);
 if (Number.isInteger(num)){
 let count = 0;
 while (count < num) {
-    console.log("x".repeat(num));
+    console.log("X".repeat(num));
     count++;
 }
 } else {
